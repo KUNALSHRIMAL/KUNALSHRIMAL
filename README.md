@@ -42,13 +42,3 @@
 
 <br />
 <br />
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshnagori&layout=compact" alt="jineshnagori" /></p>
-
-<br />
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jineshnagori&theme=white-blue" alt="jineshnagori" /></p>
-
-<br />
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jineshnagori&show_icons=true" alt="jineshnagori" /></p>
