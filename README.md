@@ -1,3 +1,46 @@
+<h1 align="center">Hi 👋, I'm Kunal Shrimal</h1>
+<h3 align="center">💻 Web Developer & Data Analyst | Building Dashboards & Web Apps</h3>
+
+<p align="center">
+<a href="#"><img title="FROM INDIA" src="https://img.shields.io/badge/FROM-INDIA-green?colorA=%23FF9933&colorB=%23138808&style=for-the-badge"></a>
+</p>
+
+---
+
+### 💼 What I Do
+- 🧱 Build responsive websites with HTML, CSS, JS, Django
+- 📊 Create interactive dashboards with Power BI
+- 🐍 Use Python and SQL for data analysis
+
+---
+
+### 🔭 Current Projects
+- 💼 Personal Portfolio Website
+- 📊 Data Analysis Projects with Power BI
+
+---
+
+### ⚡ Featured Work
+- 📦 [Blinkit Data Analytics](https://github.com/KUNALSHRIMAL/Blinkit-Data-Analytics)
+- 🛒 [MADHAV Ecommerce Dashboard](https://github.com/KUNALSHRIMAL/MADHAV-Ecommerce-Dashboard)
+- 🎬 [FilmovieGyan](https://github.com/KUNALSHRIMAL/movies)
+
+---
+
+### 📫 Contact Me
+📧 kunalvinod797@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kunal-shrimal-35b277200/)  
+📸 [Instagram](https://www.instagram.com/k_u_n_a_l__s_h_r_i_m_a_l/)
+
+---
+
+### 🧰 Languages and Tools  
+(add icons here)
+
+
+
+
+
 <p align="center">
 <a href="#"><img title="FROM INDIA" src="https://img.shields.io/badge/FROM-INDIA-green?colorA=%23FF9933&colorB=%23138808&style=for-the-badge"></a>
 </p>
