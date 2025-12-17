@@ -1,50 +1,100 @@
 <h1 align="center">Hi 👋, I'm Kunal Shrimal</h1>
-<h3 align="center">💻 Web Developer & Data Analyst | Building Dashboards & Web Apps</h3>
+<h3 align="center">
+🚀 Frontend / Full Stack Developer | React • JavaScript • E-commerce
+</h3>
 
 <p align="center">
-<a href="#"><img title="FROM INDIA" src="https://img.shields.io/badge/FROM-INDIA-green?colorA=%23FF9933&colorB=%23138808&style=for-the-badge"></a>
+  <a href="https://in.linkedin.com/in/kunalshrimal">
+    <img src="https://img.shields.io/badge/LinkedIn-Kunal%20Shrimal-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:kunalvinod797@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/From-India-orange?style=for-the-badge">
 </p>
 
 ---
 
-### 💼 What I Do
-- 🧱 Build responsive websites with HTML, CSS, JS, Django
-- 📊 Create interactive dashboards with Power BI
-- 🐍 Use Python and SQL for data analysis
+## 👨‍💻 About Me
+I’m a **Frontend / Full Stack Developer** with hands-on experience building **production-level e-commerce interfaces and automation workflows**.
+
+Currently working as a **Frontend Developer (Shopify Intern)** at **Pure Cosmeceuticals Pvt. Ltd.**, where I:
+- Build responsive UI components
+- Work with **React.js & JavaScript**
+- Implement **order confirmation & NDR automation**
+- Integrate APIs and webhooks for real business use cases
+
+🎯 Actively seeking **Frontend / React / Full Stack Developer roles**.
 
 ---
 
-### 🔭 Current Projects
-- 💼 Personal Portfolio Website
-- 📊 Data Analysis Projects with Power BI
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+
+### Backend & Database
+- Django
+- MySQL
+- REST APIs
+
+### E-commerce & Automation
+- Shopify Theme Customization
+- Webhooks
+- Order & NDR Automation
+
+### Tools
+- Git & GitHub
+- VS Code
+- Google Colab
 
 ---
 
-### ⚡ Featured Work
-- 📦 [Blinkit Data Analytics](https://github.com/KUNALSHRIMAL/Blinkit-Data-Analytics)
-- 🛒 [MADHAV Ecommerce Dashboard](https://github.com/KUNALSHRIMAL/MADHAV-Ecommerce-Dashboard)
-- 🎬 [FilmovieGyan](https://github.com/KUNALSHRIMAL/movies)
+## 🚀 Featured Projects
+
+### 🛒 E-commerce & Dashboards
+- 🔹 **Blinkit Data Analytics Dashboard**  
+  👉 https://github.com/KUNALSHRIMAL/Blinkit-Data-Analytics  
+  *Interactive dashboard analyzing orders, revenue, and delivery metrics.*
+
+- 🔹 **MADHAV Ecommerce Sales Dashboard**  
+  👉 https://github.com/KUNALSHRIMAL/MADHAV-Ecommerce-Dashboard  
+  *Sales insights dashboard with filters, trends, and performance analysis.*
 
 ---
 
-### 📫 Contact Me
-📧 kunalvinod797@gmail.com  
-🔗 [LinkedIn](https://in.linkedin.com/in/kunalshrimal)  
-📸 [Instagram](https://www.instagram.com/kunalshrimal001)
+### 💻 Web Applications
+- 🔹 **Canteen Management System**  
+  *Responsive food ordering platform with admin dashboard and payment integration.*
+
+- 🔹 **Personal Portfolio Website**  
+  *Built using React, Vite & Tailwind CSS to showcase projects and skills.*
+
+- 🔹 **FilmovieGyan**  
+  👉 https://github.com/KUNALSHRIMAL/movies  
+  *Movie listing web app with dynamic UI and API integration.*
 
 ---
 
-### 🧰 Languages and Tools  
+## 📌 What I’m Currently Doing
+- Strengthening **React & JavaScript** for frontend interviews
+- Building **real-world UI projects**
+- Preparing for **Frontend / Full Stack Developer placements**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px"  filter=invert(100%) src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+---
 
-<br />
-<br />
+## 📫 Let’s Connect
+- 📧 Email: **kunalvinod797@gmail.com**
+- 🔗 LinkedIn: https://in.linkedin.com/in/kunalshrimal
+- 💻 GitHub: https://github.com/KUNALSHRIMAL
+
+---
+
+⭐ *If you like my work, consider starring the repositories!*  
