@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Shrimal</h1>
 <h3 align="center">
-🚀 Frontend / Full Stack Developer | React • JavaScript • E-commerce
+Frontend Developer (React) | Shopify & E-commerce | Building Scalable UI Experiences
 </h3>
 
 <p align="center">
@@ -13,44 +13,46 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/From-India-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Location-Jaipur%2C%20India-orange?style=for-the-badge">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I’m a **Frontend / Full Stack Developer** with hands-on experience building **production-level e-commerce interfaces and automation workflows**.
 
-Currently working as a **Frontend Developer (Shopify Intern)** at **Pure Cosmeceuticals Pvt. Ltd.**, where I:
-- Build responsive UI components
-- Work with **React.js & JavaScript**
-- Implement **order confirmation & NDR automation**
-- Integrate APIs and webhooks for real business use cases
+I’m a **Frontend Developer (React-focused)** with hands-on experience building **production-ready e-commerce interfaces and automation workflows**.
 
-🎯 Actively seeking **Frontend / React / Full Stack Developer roles**.
+Currently working as a **Frontend Shopify Developer (Intern)** at **Pure Cosmeceuticals Pvt. Ltd.**, where I contribute to real business systems by:
+
+- Developing **responsive and user-friendly UI components**
+- Building **React-based interfaces** for dynamic user experiences
+- Implementing **order confirmation & NDR automation**
+- Integrating **APIs and webhooks** for live operational workflows
+
+🎯 **Actively seeking Frontend / React Developer roles** where I can build clean, scalable, and performance-focused UIs.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🌐 Frontend
 - React.js
 - JavaScript (ES6+)
 - HTML5
 - CSS3
 - Tailwind CSS
 
-### Backend & Database
+### ⚙️ Backend & Database
 - Django
 - MySQL
 - REST APIs
 
-### E-commerce & Automation
-- Shopify Theme Customization
-- Webhooks
+### 🛒 E-commerce & Automation
+- Shopify Theme Customization (Liquid)
+- Webhooks & API Integration
 - Order & NDR Automation
 
-### Tools
+### 🧰 Tools
 - Git & GitHub
 - VS Code
 - Google Colab
@@ -59,34 +61,42 @@ Currently working as a **Frontend Developer (Shopify Intern)** at **Pure Cosmece
 
 ## 🚀 Featured Projects
 
-### 🛒 E-commerce & Dashboards
-- 🔹 **Blinkit Data Analytics Dashboard**  
-  👉 https://github.com/KUNALSHRIMAL/Blinkit-Data-Analytics  
-  *Interactive dashboard analyzing orders, revenue, and delivery metrics.*
+### 🛒 E-commerce & Analytics Dashboards
 
-- 🔹 **MADHAV Ecommerce Sales Dashboard**  
-  👉 https://github.com/KUNALSHRIMAL/MADHAV-Ecommerce-Dashboard  
-  *Sales insights dashboard with filters, trends, and performance analysis.*
+#### 🔹 Blinkit Data Analytics Dashboard  
+👉 https://github.com/KUNALSHRIMAL/Blinkit-Data-Analytics  
+- Interactive dashboard for **orders, revenue, and delivery metrics**
+- Focused on **business insights and decision-making**
+
+#### 🔹 MADHAV Ecommerce Sales Dashboard  
+👉 https://github.com/KUNALSHRIMAL/MADHAV-Ecommerce-Dashboard  
+- Sales performance dashboard with **filters, trends, and KPIs**
+- Designed for **management-level insights**
 
 ---
 
 ### 💻 Web Applications
-- 🔹 **Canteen Management System**  
-  *Responsive food ordering platform with admin dashboard and payment integration.*
 
-- 🔹 **Personal Portfolio Website**  
-  *Built using React, Vite & Tailwind CSS to showcase projects and skills.*
+#### 🔹 Canteen Management System  
+- Responsive food ordering platform
+- Admin dashboard & payment gateway integration
+- Built for real-world usability
 
-- 🔹 **FilmovieGyan**  
-  👉 https://github.com/KUNALSHRIMAL/movies  
-  *Movie listing web app with dynamic UI and API integration.*
+#### 🔹 Personal Portfolio Website  
+- Built with **React, Vite & Tailwind CSS**
+- Clean UI to showcase projects and skills
+
+#### 🔹 FilmovieGyan  
+👉 https://github.com/KUNALSHRIMAL/movies  
+- Movie listing web app
+- API-driven dynamic UI using JavaScript
 
 ---
 
-## 📌 What I’m Currently Doing
+## 📌 What I’m Currently Working On
 - Strengthening **React & JavaScript** for frontend interviews
-- Building **real-world UI projects**
-- Preparing for **Frontend / Full Stack Developer placements**
+- Building **real-world UI-focused projects**
+- Preparing for **Frontend / React Developer placements**
 
 ---
 
@@ -97,4 +107,4 @@ Currently working as a **Frontend Developer (Shopify Intern)** at **Pure Cosmece
 
 ---
 
-⭐ *If you like my work, consider starring the repositories!*  
+⭐ *If you find my work useful, consider starring the repositories!*
