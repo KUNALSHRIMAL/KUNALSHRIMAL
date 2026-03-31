@@ -147,22 +147,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KUNALSHRIMAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=KUNALSHRIMAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&cache_seconds=1800&include_all_commits=true" width="48%" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KUNALSHRIMAL&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=KUNALSHRIMAL&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUNALSHRIMAL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KUNALSHRIMAL&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&cache_seconds=1800&langs_count=8" width="40%" />
 
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KUNALSHRIMAL&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" />
 </div>
 
 ---
