@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kunal%20Shrimal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Shopify%20%7C%20E-commerce&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Kunal%20Shrimal&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20Shopify%20%7C%20REST%20APIs&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%9A%80;React+%7C+Shopify+%7C+Tailwind+CSS;Building+Scalable+UI+Experiences+%E2%9C%A8;Open+to+Frontend+%2F+React+Roles+%F0%9F%8E%AF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Frontend+Developer+%F0%9F%9A%80;React.js+%7C+Shopify+%7C+JavaScript+ES6%2B;Building+Scalable+UI+Experiences+%E2%9C%A8;Microsoft+Certified+%7C+Azure+AI+%26+Security;Open+to+Frontend+%2F+React+Roles+%F0%9F%8E%AF" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -38,9 +38,10 @@
 
 <img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🔭 Currently a **Frontend Shopify Developer Intern** at **Pure Cosmeceuticals Pvt. Ltd.**
-- 🛠️ Building **responsive UI components**, **React-based interfaces**, and **automation workflows**
-- 🔗 Integrating **APIs, webhooks**, and **order/NDR automation** for live business systems
+- 💼 Currently a **Frontend Developer – Shopify** at **Pure Cosmeceuticals Pvt. Ltd.**
+- 🛠️ Building **custom Shopify themes**, **reusable React UI components**, and **automation workflows**
+- 🔗 Integrating **REST APIs, webhooks**, payment & shipping systems for live e-commerce
+- 🏅 **Microsoft Certified** in Azure AI Fundamentals & Security Fundamentals
 - 🎯 **Actively seeking** Frontend / React Developer roles
 - ⚡ I love turning complex problems into **clean, scalable UI experiences**
 - 📫 Reach me at **kunalvinod797@gmail.com**
@@ -80,7 +81,46 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+## 💼 Experience
+
+```
+🏢  Pure Cosmeceuticals Pvt. Ltd.                         Jaipur, India
+    ├── Frontend Developer – Shopify          Jan 2026 – Present
+    │   ├── Developed custom Shopify themes & reusable UI components
+    │   ├── Optimized storefront performance and responsiveness
+    │   ├── Integrated payment, shipping & automation workflows
+    │   └── Collaborated with backend & marketing teams
+    │
+    └── Web Development Intern                Aug 2025 – Dec 2025
+        ├── Built responsive Shopify sections (Liquid, HTML, CSS, JS)
+        ├── Implemented order automation workflows
+        └── Fixed UI bugs & improved cross-browser compatibility
+
+🏢  HDFC Parivartan Skills Academy                        Jaipur, India
+    └── Associate Data Analyst                May 2025 – Jul 2025
+        ├── Built interactive Power BI dashboards for e-commerce sales
+        └── Performed data cleaning & trend analysis using Excel
+
+🏢  Seldom India Technologies                             Jaipur, India
+    └── Internship Trainee                    Jul 2022 – Aug 2022
+        └── Explored Django fundamentals for web application development
+```
+
+---
+
+## 🏅 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Microsoft-Security%20Fundamentals%20MTA-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HDFC-Associate%20Data%20Analyst-E31837?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
 ---
@@ -111,8 +151,8 @@
       </p>
       <p>Sales performance dashboard with <strong>filters, trends & KPIs</strong>. Designed for management-level insights.</p>
       <p>
-        <img src="https://img.shields.io/badge/Dashboard-4479A1?style=flat-square&logo=mysql" />
-        <img src="https://img.shields.io/badge/KPIs-38B2AC?style=flat-square&logo=tailwind-css" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -181,9 +221,9 @@
 
 ## 📌 Currently Working On
 
-- 🔥 Strengthening **React & JavaScript** for frontend interviews
-- 🏗️ Building **real-world UI-focused projects**
-- 🎯 Preparing for **Frontend / React Developer placements**
+- 🔥 Deepening **React.js & JavaScript (ES6+)** — hooks, performance, patterns
+- 🏗️ Building **production-grade UI projects** for frontend portfolio
+- 🎯 Preparing for **Frontend / React Developer** interviews & placements
 
 ---
 
